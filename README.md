@@ -76,6 +76,7 @@ Links go to each project's own site or source repository. Every link was checked
 - [changedetection.io](https://github.com/dgtlmoon/changedetection.io) - Watches web pages for changes and notifies you.
 - [ntfy](https://ntfy.sh/) - Push notifications to phone or desktop with a plain HTTP POST.
 - [Gotify](https://gotify.net/) - Self-hosted push notification server with an Android app.
+- [SiteWatcher](https://github.com/NikKurkov/sitewatcher) - Website uptime and response-time monitoring with TLS and domain expiry alerts and public status pages.
 
 ## Automation
 
